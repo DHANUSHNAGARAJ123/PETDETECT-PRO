@@ -1,5 +1,1 @@
-# My Awesome Project
-
-## Output Demo
-
-![Home Page Screenshot](C:\Users\DHANUSH\Pictures\Screenshots\demo output.png)
+![Home Page Screenshot](images/demo_output.png)
